@@ -1,6 +1,10 @@
 Building a simple LAMP stack and deploying Application using Ansible Playbooks.
 -------------------------------------------
 
+nginxのロードバランサー
+confファイルは以下のサイトを参考
+[[http://infra.blog.shinobi.jp/Entry/112/]]
+
 These playbooks require Ansible 1.2.
 
 These playbooks are meant to be a reference and starter's guide to building
